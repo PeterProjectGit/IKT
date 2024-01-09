@@ -4,6 +4,11 @@ nav{
     padding: 0;
     margin: 0;
 }
+.navbar-brand{
+    padding: 15px;
+    font-weight: 700;
+    font-size: large;
+}
 nav ul{
     list-style-type: none;
 }
