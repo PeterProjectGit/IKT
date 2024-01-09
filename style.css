@@ -1,8 +1,8 @@
 *{padding: 0; margin: 0; box-sizing: border-box;}
 nav{
     display: flex;
-    padding: 0;
-    margin: 0;
+    padding: 10px;
+    margin: 10px;
 }
 .navbar-brand{
     padding: 15px;
