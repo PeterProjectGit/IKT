@@ -1,3 +1,4 @@
+
 *{padding: 0; margin: 0; box-sizing: border-box;
 
 }
@@ -30,4 +31,28 @@ h1{
 .my-coll{
     margin: auto;
     padding: 100px;
+=======
+*{padding: 0; margin: 0; box-sizing: border-box;}
+nav{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+.navbar-brand{
+    padding: 15px;
+    font-weight: 700;
+    font-size: large;
+}
+nav ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+
 }
