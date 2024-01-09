@@ -17,4 +17,9 @@
 }
 #myl{
     line-height: 1.5;
+    padding: 15px 0;
+}
+.my-coll{
+    margin: auto;
+    padding: 100px;
 }
